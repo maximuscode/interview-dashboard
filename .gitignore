@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+
+# Generated at first run from seed.py
+backend/interviews.db
+
+# Node
+node_modules/
+dist/
+.env
+
+# Interview speaker notes, kept local
+NOTES.md
